@@ -1,22 +1,16 @@
 {
   "packets": [
     {
-      "server_name": "default",
-      "state_id": 1,
-      "attack_id": 2,
-      "damage_info_id": 3
+      "pserver_name": "default",
+      "state_header": 0x7,
+      "attack_header": 0x2,
+      "damage_info_header": 0x87
     },    
     {
-      "server_name": "AntiMt2",
-      "state_id": 1,
-      "attack_id": 2,
-      "damage_info_id": 3
-    },    
-    {
-      "server_name": "Iris",
-      "state_id": 1,
-      "attack_id": 2,
-      "damage_info_id": 3
+      "pserver_name": "AntiMt2",
+      "state_header": 0x7,
+      "attack_header": 0x2,
+      "damage_info_header": 0x87
     }
   ]
 }
