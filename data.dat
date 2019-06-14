@@ -5,16 +5,14 @@
       "state_id": 1,
       "attack_id": 2,
       "damage_info_id": 3
-    },
-    
+    },    
     {
       "server_name": "AntiMt2",
       "state_id": 1,
       "attack_id": 2,
       "damage_info_id": 3
-    },
-    
-     {
+    },    
+    {
       "server_name": "Iris",
       "state_id": 1,
       "attack_id": 2,
