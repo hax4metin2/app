@@ -1,16 +1,18 @@
-{
-  "packets": [
-    {
-      "pserver_name": "default",
-      "state_header": 0x7,
-      "attack_header": 0x2,
-      "damage_info_header": 0x87
-    },    
-    {
-      "pserver_name": "AntiMt2",
-      "state_header": 0x7,
-      "attack_header": 0x2,
-      "damage_info_header": 0x87
-    }
-  ]
-}
+[
+  {
+    "packets": [
+      {
+        "pserver_name": "default",
+        "state_header": 0x7,
+        "attack_header": 0x2,
+        "damage_info_header": 0x87
+      },    
+      {
+        "pserver_name": "AntiMt2",
+        "state_header": 0x7,
+        "attack_header": 0x2,
+        "damage_info_header": 0x87
+      }
+    ]
+  }
+]
