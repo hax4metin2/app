@@ -4,13 +4,15 @@
       "pserver_name": "default",
       "state_header": 7,
       "attack_header": 2,
-      "damage_info_header": 135
+      "damage_info_header": 135,
+      "sync_pos_header": 8
     },    
     {
       "pserver_name": "AntiMt2",
       "state_header": 7,
       "attack_header": 2,
-      "damage_info_header": 135
+      "damage_info_header": 135,
+      "sync_pos_header": 8
     }
   ]
 }
